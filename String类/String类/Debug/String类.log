@@ -1,0 +1,7 @@
+﻿  源.cpp
+f:\c_plus_plus\string类\string类\源.cpp(135): warning C4018: “<”: 有符号/无符号不匹配
+f:\c_plus_plus\string类\string类\源.cpp(181): warning C4018: “>”: 有符号/无符号不匹配
+f:\c_plus_plus\string类\string类\源.cpp(183): warning C4018: “>”: 有符号/无符号不匹配
+f:\c_plus_plus\string类\string类\源.cpp(194): warning C4018: “>”: 有符号/无符号不匹配
+  String类.vcxproj -> F:\c_Plus_Plus\String类\Debug\String类.exe
+  String类.vcxproj -> F:\c_Plus_Plus\String类\Debug\String类.pdb (Full PDB)
